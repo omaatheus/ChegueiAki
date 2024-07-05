@@ -1,4 +1,4 @@
-# ChegueiAki
+# EstoyAki
 
 Um App para gerenciar a chegada de usuários em um evento.
 
